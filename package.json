@@ -1,0 +1,9 @@
+{
+  "name": "ff-autoredirect",
+  "title": "ff-autoredirect",
+  "id": "jid1-WlfsAsrUAtSLmg",
+  "description": "Automatically redirects through certain captive portal pages ('you are now leaving... click to continue').",
+  "author": "Alex Kersten",
+  "license": "CC BY-SA 4.0",
+  "version": "0.1"
+}
